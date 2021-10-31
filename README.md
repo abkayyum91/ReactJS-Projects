@@ -8,3 +8,9 @@ TextUtil is a text analyzing tool using this tool you can,
 
 have included fuctionality
 
+# Project: 2 - Daily News
+
+It is a news site which fetch top headlines from an free news api and showing it.
+
+news api site: https://newsapi.org/
+
