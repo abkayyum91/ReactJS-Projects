@@ -20,3 +20,15 @@ news api site: https://newsapi.org/
 iNotebook is a store of your notes, which you have stored on it for later to use.
 iNotebook, all your notes on cloud and access it from anywhere.
 
+### ForntEnt Technology-
+```
+* RactJS
+* Bootstrap
+```
+
+### BackEnd Technology-
+```
+* Django
+* Django Rest Framework
+* djangorestframework_simplejwt
+```
