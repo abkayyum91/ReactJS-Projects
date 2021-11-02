@@ -1,0 +1,7 @@
+.note-list{
+  overflow-y: scroll;
+  max-height: 380px;
+}
+.fas,.far{
+  cursor: pointer;
+}
